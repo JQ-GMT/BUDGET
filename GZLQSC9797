@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://118.123.166.242:9797/gmt/appDownload/ios</string>
+            <string>http://203.189.218.60:9797/gmt/appDownload/ios</string>
           </dict>
           <dict>
             <key>kind</key>
